@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|d:\\mui\\webapi_core\\webapibandonoithat\\bandonoithat\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|solutionrelative:bandonoithat\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|d:\\mui\\webapi_core\\webapibandonoithat\\bandonoithat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|solutionrelative:bandonoithat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|d:\\mui\\webapi_core\\webapibandonoithat\\bandonoithat\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|solutionrelative:bandonoithat\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|d:\\mui\\webapi_core\\webapibandonoithat\\bandonoithat\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|solutionrelative:bandonoithat\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|d:\\mui\\webapi_core\\webapibandonoithat\\bandonoithat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|solutionrelative:bandonoithat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "BanDoNoiThat\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "BanDoNoiThat\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:07:09.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "BanDoNoiThat\\Models\\Products.cs",
+              "ToolTip": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\Models\\Products.cs",
+              "RelativeToolTip": "BanDoNoiThat\\Models\\Products.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:57:25.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BanDoNoiThat\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BanDoNoiThat\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:01:11.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\Program.cs",
+              "RelativeDocumentMoniker": "BanDoNoiThat\\Program.cs",
+              "ToolTip": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\Program.cs",
+              "RelativeToolTip": "BanDoNoiThat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:57:00.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\appsettings.json",
+              "RelativeDocumentMoniker": "BanDoNoiThat\\appsettings.json",
+              "ToolTip": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\appsettings.json",
+              "RelativeToolTip": "BanDoNoiThat\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T10:36:11.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
