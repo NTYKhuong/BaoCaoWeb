@@ -9,3 +9,4 @@ D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\ApplicationCore\obj\Debug\net8.0\Applicati
 D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
 D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
 D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll
+D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\ApplicationCore\obj\Debug\net8.0\ApplicationCore.sourcelink.json

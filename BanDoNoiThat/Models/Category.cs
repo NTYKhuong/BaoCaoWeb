@@ -6,8 +6,8 @@ namespace BanDoNoiThat.Models
     {
         [Key]
         public int category_id { get; set; }
-        public string category_name { get; set; }
+        public string? category_name { get; set; }
         // Collection cho moi quan he mot-nhieu
-        public ICollection<Products> Products { get; set; }
+        public ICollection<Products> Products { get; set; } = new List<Products>();
     }
 }

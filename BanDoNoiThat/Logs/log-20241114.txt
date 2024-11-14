@@ -1,0 +1,6 @@
+2024-11-14 10:31:37.337 +07:00 [ERR] Failed executing DbCommand (25ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Category] (
+    [category_id] int NOT NULL IDENTITY,
+    [category_name] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Category] PRIMARY KEY ([category_id])
+);

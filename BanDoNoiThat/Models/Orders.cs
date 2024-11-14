@@ -13,6 +13,6 @@ namespace BanDoNoiThat.Models
         // Thuoc tinh dieu huong den lop Customers
         public Customers Customers { get; set; }
         // Collection cho moi quan he mot-nhieu
-        public ICollection<OrderDetails> Order_details { get; set; }
+        public ICollection<OrderDetails> Order_details { get; set; } = new List<OrderDetails>();
     }
 }

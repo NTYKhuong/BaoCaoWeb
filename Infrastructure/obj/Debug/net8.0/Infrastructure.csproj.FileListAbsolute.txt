@@ -13,3 +13,4 @@ D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\Infrastructure\obj\Debug\net8.0\Infrastruc
 D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
