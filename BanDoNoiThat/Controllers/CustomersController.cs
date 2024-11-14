@@ -30,7 +30,7 @@ namespace BanDoNoiThat.Controllers
 
         // GetById
         [HttpGet("{id}")]
-        public async Task<ActionResult<Customers>> GetByIdCustomer(int id)
+        public async Task<ActionResult<Customers>> GetByIdCustomers(int id)
         {
             var customer = await _context.Customers.FindAsync(id);
 
@@ -44,7 +44,7 @@ namespace BanDoNoiThat.Controllers
 
         // Create
         [HttpPost]
-        public async Task<IActionResult> CreateCustomer([FromBody] Customers customer)
+        public async Task<IActionResult> CreateCustomers([FromBody] Customers customer)
         {
             if (customer == null)
             {
@@ -53,12 +53,12 @@ namespace BanDoNoiThat.Controllers
 
             _context.Customers.Add(customer);
             await _context.SaveChangesAsync();
-            return CreatedAtAction(nameof(GetByIdCustomer), new { id = customer.customer_id }, customer);
+            return CreatedAtAction(nameof(GetByIdCustomers), new { id = customer.customer_id }, customer);
         }
 
         // Update
         [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateCustomer(int id, [FromBody] Customers updatedCustomer)
+        public async Task<IActionResult> UpdateCustomers(int id, [FromBody] Customers updatedCustomer)
         {
             if (id != updatedCustomer.customer_id)
             {
@@ -84,7 +84,7 @@ namespace BanDoNoiThat.Controllers
 
         // Delete
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteCustomer(int id)
+        public async Task<IActionResult> DeleteCustomers(int id)
         {
             var customer = await _context.Customers.FindAsync(id);
             if (customer == null)
