@@ -10,3 +10,15 @@ D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\ApplicationCore\obj\Debug\net8.0\refint\Ap
 D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
 D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll
 D:\Mui\WebAPI_Core\WebAPIBanDoNoiThat\ApplicationCore\obj\Debug\net8.0\ApplicationCore.sourcelink.json
+D:\DoNoiThat\BaoCaoWeb\ApplicationCore\bin\Debug\net8.0\ApplicationCore.deps.json
+D:\DoNoiThat\BaoCaoWeb\ApplicationCore\bin\Debug\net8.0\ApplicationCore.dll
+D:\DoNoiThat\BaoCaoWeb\ApplicationCore\bin\Debug\net8.0\ApplicationCore.pdb
+D:\DoNoiThat\BaoCaoWeb\ApplicationCore\obj\Debug\net8.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoNoiThat\BaoCaoWeb\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\DoNoiThat\BaoCaoWeb\ApplicationCore\obj\Debug\net8.0\ApplicationCore.AssemblyInfo.cs
+D:\DoNoiThat\BaoCaoWeb\ApplicationCore\obj\Debug\net8.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\DoNoiThat\BaoCaoWeb\ApplicationCore\obj\Debug\net8.0\ApplicationCore.sourcelink.json
+D:\DoNoiThat\BaoCaoWeb\ApplicationCore\obj\Debug\net8.0\ApplicationCore.dll
+D:\DoNoiThat\BaoCaoWeb\ApplicationCore\obj\Debug\net8.0\refint\ApplicationCore.dll
+D:\DoNoiThat\BaoCaoWeb\ApplicationCore\obj\Debug\net8.0\ApplicationCore.pdb
+D:\DoNoiThat\BaoCaoWeb\ApplicationCore\obj\Debug\net8.0\ref\ApplicationCore.dll

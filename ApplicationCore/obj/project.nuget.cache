@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zl9RPWhuOzckbZlQWnITJAHRW0cg5H4PIcrSxhsF/oTxMBsr2vLXb/ELad8fimodxrTokCwC2Mv4Hs1BxSQRXw==",
+  "dgSpecHash": "zhQcr05LN+8C2MBTLDry+hYXfqWDWr+0oew2NHb9KV1VrNrKLETJ2ErwHEawc+WRzJcYHcomztrDc4aYBb9tsQ==",
   "success": true,
-  "projectFilePath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\ApplicationCore\\ApplicationCore.csproj",
+  "projectFilePath": "D:\\DoNoiThat\\BaoCaoWeb\\ApplicationCore\\ApplicationCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

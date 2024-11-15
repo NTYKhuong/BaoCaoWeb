@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WYbpS6PLrl5kdRPNL6l2Axwdcnz2ZjfiVtJ8L6pb2n9DbL/xJ02Xv07kTPu+Ep+g10rdMCp1ZPNnHsE2dHqK7w==",
+  "dgSpecHash": "h7NSuacKYaAfwnScBqtwXqRp4uiTfKBXiW/qp56UdSRPEuCY6j18SnvuyFGdD1TmO85jpbZfGxIDNkGMEZBggQ==",
   "success": true,
-  "projectFilePath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\DoNoiThat\\BaoCaoWeb\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
