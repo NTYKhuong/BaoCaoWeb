@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|solutionrelative:bandonoithat\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|d:\\mui\\webapi_core\\webapibandonoithat\\bandonoithat\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|solutionrelative:bandonoithat\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|d:\\mui\\webapi_core\\webapibandonoithat\\bandonoithat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|solutionrelative:bandonoithat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|d:\\mui\\webapi_core\\webapibandonoithat\\bandonoithat\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|solutionrelative:bandonoithat\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F432E70B-1713-430C-AA86-D6EB4B19C9DF}|BanDoNoiThat\\BanDoNoiThat.csproj|d:\\mui\\webapi_core\\webapibandonoithat\\bandonoithat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,13 +82,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "BanDoNoiThat\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "BanDoNoiThat\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T01:11:52.016Z",
               "EditorCaption": ""
@@ -108,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\appsettings.json",
               "RelativeDocumentMoniker": "BanDoNoiThat\\appsettings.json",
@@ -127,7 +127,7 @@
               "RelativeDocumentMoniker": "BanDoNoiThat\\Controllers\\ProductsController.cs",
               "ToolTip": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "BanDoNoiThat\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBgAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T18:23:22.497Z",
               "EditorCaption": ""
