@@ -27,7 +27,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // GetById
-        [HttpGet("{id}")]
+        [HttpGet("{order_id}")]
         public async Task<ActionResult<Orders>> GetByIdOrders(int id)
         {
             var order = await _context.Orders.FindAsync(id);
@@ -55,7 +55,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // Update
-        [HttpPut("{id}")]
+        [HttpPut("{order_id}")]
         public async Task<IActionResult> UpdateOrders(int id, [FromBody] Orders updatedOrder)
         {
             if (id != updatedOrder.order_id)
@@ -81,7 +81,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // Delete
-        [HttpDelete("{id}")]
+        [HttpDelete("{order_id}")]
         public async Task<IActionResult> DeleteOrders(int id)
         {
             var order = await _context.Orders.FindAsync(id);

@@ -29,7 +29,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // GetById
-        [HttpGet("{id}")]
+        [HttpGet("{customer_id}")]
         public async Task<ActionResult<Customers>> GetByIdCustomers(int id)
         {
             var customer = await _context.Customers.FindAsync(id);
@@ -57,7 +57,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // Update
-        [HttpPut("{id}")]
+        [HttpPut("{customer_id}")]
         public async Task<IActionResult> UpdateCustomers(int id, [FromBody] Customers updatedCustomer)
         {
             if (id != updatedCustomer.customer_id)
@@ -83,7 +83,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // Delete
-        [HttpDelete("{id}")]
+        [HttpDelete("{customer_id}")]
         public async Task<IActionResult> DeleteCustomers(int id)
         {
             var customer = await _context.Customers.FindAsync(id);

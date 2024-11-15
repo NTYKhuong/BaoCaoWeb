@@ -2,6 +2,7 @@
 using BanDoNoiThat.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Serilog;
 
 namespace BanDoNoiThat.Controllers
 {
@@ -15,21 +16,25 @@ namespace BanDoNoiThat.Controllers
         //}
 
         private readonly ApplicationDbContext _context;
+        private readonly Serilog.ILogger _logger;
 
-        public ProductsController(ApplicationDbContext context)
+        public ProductsController(ApplicationDbContext context, Serilog.ILogger logger)
         {
             _context = context;
+            _logger = logger;
         }
 
         // GetAll
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Products>>> GetAllProducts()
         {
+            Log.Logger.Information("Get All Data\nResponse: {@books}", _context.Products);
+            _logger.Information("Get All Data\nResponse: {@books}", _context.Products);
             return await _context.Products.ToListAsync();
         }
 
         // GetById
-        [HttpGet("{id}")]
+        [HttpGet("{product_id}")]
         public async Task<ActionResult<Products>> GetByIdProducts(int id)
         {
             var product = await _context.Products.FindAsync(id);
@@ -57,7 +62,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // Update
-        [HttpPut("{id}")]
+        [HttpPut("{product_id}")]
         public async Task<IActionResult> UpdateProducts(int id, [FromBody] Products updatedProduct)
         {
             if (id != updatedProduct.product_id)
@@ -89,7 +94,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // Delete
-        [HttpDelete("{id}")]
+        [HttpDelete("{product_id}")]
         public async Task<IActionResult> DeleteProducts(int id)
         {
             var product = await _context.Products.FindAsync(id);

@@ -27,7 +27,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // GetById
-        [HttpGet("{id}")]
+        [HttpGet("{detail_id}")]
         public async Task<ActionResult<OrderDetails>> GetByIdOrderDetails(int id)
         {
             var detail = await _context.OrderDetails.FindAsync(id);
@@ -55,7 +55,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // Update
-        [HttpPut("{id}")]
+        [HttpPut("{detail_id}")]
         public async Task<IActionResult> UpdateOrderDetails(int id, [FromBody] OrderDetails updatedDetail)
         {
             if (id != updatedDetail.detail_id)
@@ -82,7 +82,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // Delete
-        [HttpDelete("{id}")]
+        [HttpDelete("{detail_id}")]
         public async Task<IActionResult> DeleteOrderDetails(int id)
         {
             var detail = await _context.OrderDetails.FindAsync(id);

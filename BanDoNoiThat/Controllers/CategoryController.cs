@@ -27,7 +27,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // GetById
-        [HttpGet("{id}")]
+        [HttpGet("{category_id}")]
         public async Task<ActionResult<Category>> GetByIdCategories(int id)
         {
             var category = await _context.Category.FindAsync(id);
@@ -55,7 +55,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // Update
-        [HttpPut("{id}")]
+        [HttpPut("{category_id}")]
         public async Task<IActionResult> UpdateCategories(int id, [FromBody] Category updatedCategory)
         {
             if (id != updatedCategory.category_id)
@@ -79,7 +79,7 @@ namespace BanDoNoiThat.Controllers
         }
 
         // Delete
-        [HttpDelete("{id}")]
+        [HttpDelete("{category_id}")]
         public async Task<IActionResult> DeleteCategories(int id)
         {
             var category = await _context.Category.FindAsync(id);
