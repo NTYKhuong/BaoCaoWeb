@@ -50,3 +50,5 @@ System.InvalidOperationException: Multiple constructors accepting all given argu
 Response: []
 2024-11-15 08:14:18.344 +07:00 [INF] Get All Data
 Response: []
+2024-11-15 08:35:47.911 +07:00 [INF] Get All Data
+Response: []

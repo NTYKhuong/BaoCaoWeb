@@ -28,8 +28,8 @@ namespace BanDoNoiThat.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Products>>> GetAllProducts()
         {
-            Log.Logger.Information("Get All Data\nResponse: {@books}", _context.Products);
-            _logger.Information("Get All Data\nResponse: {@books}", _context.Products);
+            //Log.Logger.Information("Get All Data\nResponse: {@products}", _context.Products);
+            _logger.Information("Get All Data\nResponse: {@products}", _context.Products);
             return await _context.Products.ToListAsync();
         }
 
