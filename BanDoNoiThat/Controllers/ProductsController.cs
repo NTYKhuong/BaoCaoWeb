@@ -7,7 +7,7 @@ using Serilog;
 namespace BanDoNoiThat.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/[controller]")]
     public class ProductsController : Controller
     {
         //public IActionResult Index()

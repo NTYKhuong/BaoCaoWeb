@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\BanDoNoiThat.csproj": {}
+    "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\BanDoNoiThat\\BanDoNoiThat.csproj": {}
   },
   "projects": {
-    "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\ApplicationCore\\ApplicationCore.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\ApplicationCore\\ApplicationCore.csproj": {
+      "version": "4.8.0.5324",
       "restore": {
-        "projectUniqueName": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\ApplicationCore\\ApplicationCore.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\ApplicationCore\\obj\\",
+        "projectPath": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\ApplicationCore\\ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\IDEAPAD GAMING 3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IDEAPAD GAMING 3\\Documents\\NuGet.Config",
+          "C:\\Users\\IDEAPAD GAMING 3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,24 +66,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\BanDoNoiThat.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\BanDoNoiThat\\BanDoNoiThat.csproj": {
+      "version": "4.8.0.5324",
       "restore": {
-        "projectUniqueName": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\BanDoNoiThat.csproj",
+        "projectUniqueName": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\BanDoNoiThat\\BanDoNoiThat.csproj",
         "projectName": "BanDoNoiThat",
-        "projectPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\BanDoNoiThat.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\obj\\",
+        "projectPath": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\BanDoNoiThat\\BanDoNoiThat.csproj",
+        "packagesPath": "C:\\Users\\IDEAPAD GAMING 3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\BanDoNoiThat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IDEAPAD GAMING 3\\Documents\\NuGet.Config",
+          "C:\\Users\\IDEAPAD GAMING 3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -98,11 +100,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -194,24 +196,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\Infrastructure\\Infrastructure.csproj": {
-      "version": "1.0.0",
+    "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\Infrastructure\\Infrastructure.csproj": {
+      "version": "4.8.0.5324",
       "restore": {
-        "projectUniqueName": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\IDEAPAD GAMING 3\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IDEAPAD GAMING 3\\Documents\\NuGet.Config",
+          "C:\\Users\\IDEAPAD GAMING 3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -227,8 +230,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\ApplicationCore\\ApplicationCore.csproj"
               }
             }
           }
@@ -263,7 +266,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

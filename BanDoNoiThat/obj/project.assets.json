@@ -1894,7 +1894,7 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "ApplicationCore/1.0.0": {
+      "ApplicationCore/4.8.0.5324": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "compile": {
@@ -1904,11 +1904,11 @@
           "bin/placeholder/ApplicationCore.dll": {}
         }
       },
-      "Infrastructure/1.0.0": {
+      "Infrastructure/4.8.0.5324": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "ApplicationCore": "1.0.0"
+          "ApplicationCore": "4.8.0.5324"
         },
         "compile": {
           "bin/placeholder/Infrastructure.dll": {}
@@ -5157,12 +5157,12 @@
         "version.txt"
       ]
     },
-    "ApplicationCore/1.0.0": {
+    "ApplicationCore/4.8.0.5324": {
       "type": "project",
       "path": "../ApplicationCore/ApplicationCore.csproj",
       "msbuildProject": "../ApplicationCore/ApplicationCore.csproj"
     },
-    "Infrastructure/1.0.0": {
+    "Infrastructure/4.8.0.5324": {
       "type": "project",
       "path": "../Infrastructure/Infrastructure.csproj",
       "msbuildProject": "../Infrastructure/Infrastructure.csproj"
@@ -5170,8 +5170,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "ApplicationCore >= 1.0.0",
-      "Infrastructure >= 1.0.0",
+      "ApplicationCore >= 4.8.0.5324",
+      "Infrastructure >= 4.8.0.5324",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.10",
@@ -5187,23 +5187,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {},
+    "C:\\Users\\IDEAPAD GAMING 3\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "4.8.0.5324",
     "restore": {
-      "projectUniqueName": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\BanDoNoiThat.csproj",
+      "projectUniqueName": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\BanDoNoiThat\\BanDoNoiThat.csproj",
       "projectName": "BanDoNoiThat",
-      "projectPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\BanDoNoiThat.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\BanDoNoiThat\\obj\\",
+      "projectPath": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\BanDoNoiThat\\BanDoNoiThat.csproj",
+      "packagesPath": "C:\\Users\\IDEAPAD GAMING 3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\BanDoNoiThat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IDEAPAD GAMING 3\\Documents\\NuGet.Config",
+        "C:\\Users\\IDEAPAD GAMING 3\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5219,11 +5220,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\ApplicationCore\\ApplicationCore.csproj"
+            "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\ApplicationCore\\ApplicationCore.csproj"
             },
-            "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\Mui\\WebAPI_Core\\WebAPIBanDoNoiThat\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\IDEAPAD GAMING 3\\Documents\\WebAPICore\\BaoCaoWeb\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -5315,7 +5316,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5,6 +5,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BanDoNoiThat.Controllers
 {
+    [ApiController]
+    [Route("api/[controller]")]
     public class OrdersController : Controller
     {
         //public IActionResult Index()
