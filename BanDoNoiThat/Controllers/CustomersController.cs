@@ -15,10 +15,12 @@ namespace BanDoNoiThat.Controllers
         //}
 
         private readonly ApplicationDbContext _context;
+        private readonly Serilog.ILogger _logger;
 
-        public CustomersController(ApplicationDbContext context)
+        public CustomersController(ApplicationDbContext context, Serilog.ILogger logger)
         {
             _context = context;
+            _logger = logger;
         }
 
         // GetAll
