@@ -1,9 +1,13 @@
-﻿using System.Text.Json;
+﻿using System.Text;
+using System.Text.Json;
 using BanDoNoiThat.Data;
 using BanDoNoiThat.HealthCheck;
+using BanDoNoiThat.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using Serilog;
 using Serilog.Sinks.MSSqlServer;
@@ -14,7 +18,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 //----------------------------------------
 // Get connet string from appsettings.json
-var connectionString = builder.Configuration.GetConnectionString("Connection");
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
 // Config DbContext
 builder.Services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(connectionString));
@@ -48,40 +52,47 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Add authorization
-builder.Services.AddAuthorization();
+// Add JWT authorization
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+.AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true, //kiểm tra token đã hết hạng hay chưa
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+        ValidAudience = builder.Configuration["Jwt:Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("SecretKeyQUIMUIITlaptrinhvacotsong")),
+    };
+});
+
+builder.Services.AddScoped<AuthService>();
+
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("ADMIN", policy =>
+        policy.RequireClaim("RoleName", "ADMIN")); // Yêu cầu roleID là ADMIN
+});
 builder.Services.AddIdentityApiEndpoints<IdentityUser>()
     .AddEntityFrameworkStores<ApplicationDbContext>();
+//
 
-builder.Services.AddSwaggerGen(options =>
+//them dich vu Cross origin request sharing vào tất cả các url
+builder.Services.AddCors(options =>
 {
-    options.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo()
-    {
-        Title = "BCNhom Authorization",
-        Version = "v1"
-    });
-    options.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme()
-    {
-        In = Microsoft.OpenApi.Models.ParameterLocation.Header,
-        Description = "Please enter a token",
-        Name = "Authorization",
-        Type = Microsoft.OpenApi.Models.SecuritySchemeType.Http,
-        BearerFormat = "JWT",
-        Scheme = "bearer"
-    });
-    options.AddSecurityRequirement(new Microsoft.OpenApi.Models.OpenApiSecurityRequirement()
-    {
+    options.AddPolicy("AllowAll",
+        builder =>
         {
-            new OpenApiSecurityScheme
-            {
-                Reference = new OpenApiReference
-                {
-                    Type = ReferenceType.SecurityScheme,
-                    Id = "Bearer"
-                }
-            },[]
-        }
-    });
+            builder.AllowAnyOrigin()
+                   .AllowAnyMethod()
+                   .AllowAnyHeader();
+        });
 });
 //
 
@@ -109,6 +120,14 @@ app.MapHealthChecks("/health", new HealthCheckOptions
 });
 //
 
+// Add Data
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    var dbContext = services.GetRequiredService<ApplicationDbContext>();
+    SeedData.SeedDingData(dbContext);
+}
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
@@ -120,9 +139,18 @@ if (app.Environment.IsDevelopment())
 app.MapIdentityApi<IdentityUser>();
 //
 
+// Su dung CORS
+app.UseCors("AllowAll");
+//
+
 app.UseHttpsRedirection();
 
+app.UseSerilogRequestLogging();
+
+// Add Auth
+app.UseAuthentication();
 app.UseAuthorization();
+//
 
 app.MapControllers();
 

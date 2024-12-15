@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace BanDoNoiThat.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCreate : Migration
+    public partial class createMigrations : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -56,7 +56,7 @@ namespace BanDoNoiThat.Migrations
                 {
                     category_id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    category_name = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    category_name = table.Column<string>(type: "nvarchar(max)", nullable: true)
                 },
                 constraints: table =>
                 {
@@ -69,13 +69,26 @@ namespace BanDoNoiThat.Migrations
                 {
                     customer_id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    customer_name = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    address = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    phone_number = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    customer_name = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    address = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    phone_number = table.Column<string>(type: "nvarchar(max)", nullable: true)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Customers", x => x.customer_id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Role",
+                columns: table => new
+                {
+                    role_id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    roleName = table.Column<string>(type: "nvarchar(max)", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Role", x => x.role_id);
                 });
 
             migrationBuilder.CreateTable(
@@ -190,12 +203,12 @@ namespace BanDoNoiThat.Migrations
                 {
                     product_id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    product_name = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    image_path = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    product_name = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    image_path = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     inventory_quantity = table.Column<int>(type: "int", nullable: true),
                     original_price = table.Column<double>(type: "float", nullable: true),
                     unit_price = table.Column<double>(type: "float", nullable: true),
-                    description = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    description = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     create_time = table.Column<DateTime>(type: "datetime2", nullable: true),
                     update_time = table.Column<DateTime>(type: "datetime2", nullable: true),
                     category_id = table.Column<int>(type: "int", nullable: false)
@@ -233,6 +246,27 @@ namespace BanDoNoiThat.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Account",
+                columns: table => new
+                {
+                    account_id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    FullName = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Username = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Password = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    role_id = table.Column<int>(type: "int", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Account", x => x.account_id);
+                    table.ForeignKey(
+                        name: "FK_Account_Role_role_id",
+                        column: x => x.role_id,
+                        principalTable: "Role",
+                        principalColumn: "role_id");
+                });
+
+            migrationBuilder.CreateTable(
                 name: "OrderDetails",
                 columns: table => new
                 {
@@ -259,6 +293,11 @@ namespace BanDoNoiThat.Migrations
                         principalColumn: "product_id",
                         onDelete: ReferentialAction.Cascade);
                 });
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Account_role_id",
+                table: "Account",
+                column: "role_id");
 
             migrationBuilder.CreateIndex(
                 name: "IX_AspNetRoleClaims_RoleId",
@@ -324,6 +363,9 @@ namespace BanDoNoiThat.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
+                name: "Account");
+
+            migrationBuilder.DropTable(
                 name: "AspNetRoleClaims");
 
             migrationBuilder.DropTable(
@@ -340,6 +382,9 @@ namespace BanDoNoiThat.Migrations
 
             migrationBuilder.DropTable(
                 name: "OrderDetails");
+
+            migrationBuilder.DropTable(
+                name: "Role");
 
             migrationBuilder.DropTable(
                 name: "AspNetRoles");

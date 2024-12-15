@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BanDoNoiThat.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20241114033038_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20241213103551_createMigrations")]
+    partial class createMigrations
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -25,6 +25,34 @@ namespace BanDoNoiThat.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("BanDoNoiThat.Models.Account", b =>
+                {
+                    b.Property<int>("account_id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("account_id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("account_id"));
+
+                    b.Property<string>("FullName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Password")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Username")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("role_id")
+                        .HasColumnType("int");
+
+                    b.HasKey("account_id");
+
+                    b.HasIndex("role_id");
+
+                    b.ToTable("Account", (string)null);
+                });
+
             modelBuilder.Entity("BanDoNoiThat.Models.Category", b =>
                 {
                     b.Property<int>("category_id")
@@ -35,7 +63,6 @@ namespace BanDoNoiThat.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("category_id"));
 
                     b.Property<string>("category_name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("category_id");
@@ -53,15 +80,12 @@ namespace BanDoNoiThat.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("customer_id"));
 
                     b.Property<string>("address")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("customer_name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("phone_number")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("customer_id");
@@ -140,11 +164,9 @@ namespace BanDoNoiThat.Migrations
                         .HasColumnType("datetime2");
 
                     b.Property<string>("description")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("image_path")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int?>("inventory_quantity")
@@ -154,7 +176,6 @@ namespace BanDoNoiThat.Migrations
                         .HasColumnType("float");
 
                     b.Property<string>("product_name")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<double?>("unit_price")
@@ -168,6 +189,23 @@ namespace BanDoNoiThat.Migrations
                     b.HasIndex("category_id");
 
                     b.ToTable("Products", (string)null);
+                });
+
+            modelBuilder.Entity("BanDoNoiThat.Models.Role", b =>
+                {
+                    b.Property<int>("role_id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnName("role_id");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("role_id"));
+
+                    b.Property<string>("roleName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("role_id");
+
+                    b.ToTable("Role", (string)null);
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -368,6 +406,15 @@ namespace BanDoNoiThat.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("BanDoNoiThat.Models.Account", b =>
+                {
+                    b.HasOne("BanDoNoiThat.Models.Role", "Role")
+                        .WithMany("Accounts")
+                        .HasForeignKey("role_id");
+
+                    b.Navigation("Role");
+                });
+
             modelBuilder.Entity("BanDoNoiThat.Models.OrderDetails", b =>
                 {
                     b.HasOne("BanDoNoiThat.Models.Orders", "Orders")
@@ -478,6 +525,11 @@ namespace BanDoNoiThat.Migrations
             modelBuilder.Entity("BanDoNoiThat.Models.Products", b =>
                 {
                     b.Navigation("Order_details");
+                });
+
+            modelBuilder.Entity("BanDoNoiThat.Models.Role", b =>
+                {
+                    b.Navigation("Accounts");
                 });
 #pragma warning restore 612, 618
         }

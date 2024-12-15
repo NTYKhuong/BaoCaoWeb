@@ -1,0 +1,917 @@
+2024-12-14 15:37:01.900 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-12-14 15:37:04.310 +07:00 [INF] Get All Data
+Response: []
+2024-12-14 15:37:04.587 +07:00 [INF] HTTP GET /api/Products responded 200 in 2559.9403 ms
+2024-12-14 15:37:04.589 +07:00 [INF] Get All Data
+Response: []
+2024-12-14 15:37:04.705 +07:00 [INF] HTTP GET /api/Products responded 200 in 119.2843 ms
+2024-12-14 15:50:19.860 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 15:50:20.033 +07:00 [INF] HTTP GET /api/Products responded 200 in 182.6899 ms
+2024-12-14 15:50:20.049 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 15:50:20.072 +07:00 [INF] HTTP GET /api/Products responded 200 in 31.1001 ms
+2024-12-14 15:50:47.987 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 15:50:48.009 +07:00 [INF] HTTP GET /api/Products responded 200 in 22.7825 ms
+2024-12-14 15:50:48.015 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 15:50:48.059 +07:00 [INF] HTTP GET /api/Products responded 200 in 44.3880 ms
+2024-12-14 16:11:32.720 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:11:32.767 +07:00 [INF] HTTP GET /api/Products responded 200 in 52.9201 ms
+2024-12-14 16:11:32.775 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:11:32.842 +07:00 [INF] HTTP GET /api/Products responded 200 in 67.9268 ms
+2024-12-14 16:11:36.353 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:11:36.382 +07:00 [INF] HTTP GET /api/Products responded 200 in 30.0969 ms
+2024-12-14 16:11:36.388 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:11:36.416 +07:00 [INF] HTTP GET /api/Products responded 200 in 28.7574 ms
+2024-12-14 16:11:47.762 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:11:47.784 +07:00 [INF] HTTP GET /api/Products responded 200 in 22.8201 ms
+2024-12-14 16:11:47.787 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:11:47.803 +07:00 [INF] HTTP GET /api/Products responded 200 in 16.3872 ms
+2024-12-14 16:12:03.974 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:12:03.992 +07:00 [INF] HTTP GET /api/Products responded 200 in 17.9402 ms
+2024-12-14 16:12:03.996 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:12:04.016 +07:00 [INF] HTTP GET /api/Products responded 200 in 21.5226 ms
+2024-12-14 16:14:19.055 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:14:19.124 +07:00 [INF] HTTP GET /api/Products responded 200 in 69.9577 ms
+2024-12-14 16:14:19.140 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:14:19.212 +07:00 [INF] HTTP GET /api/Products responded 200 in 76.0383 ms
+2024-12-14 16:15:54.939 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:15:54.963 +07:00 [INF] HTTP GET /api/Products responded 200 in 24.3767 ms
+2024-12-14 16:16:47.930 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:16:47.958 +07:00 [INF] HTTP GET /api/Products responded 200 in 28.4390 ms
+2024-12-14 16:17:23.959 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:17:24.009 +07:00 [INF] HTTP GET /api/Products responded 200 in 50.7055 ms
+2024-12-14 16:18:13.952 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:18:13.984 +07:00 [INF] HTTP GET /api/Products responded 200 in 33.7656 ms
+2024-12-14 16:18:31.936 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:18:31.957 +07:00 [INF] HTTP GET /api/Products responded 200 in 21.0573 ms
+2024-12-14 16:18:35.949 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:18:35.968 +07:00 [INF] HTTP GET /api/Products responded 200 in 19.3274 ms
+2024-12-14 16:18:41.921 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:18:41.950 +07:00 [INF] HTTP GET /api/Products responded 200 in 28.4107 ms
+2024-12-14 16:18:47.976 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:18:47.995 +07:00 [INF] HTTP GET /api/Products responded 200 in 19.5882 ms
+2024-12-14 16:18:55.924 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:18:55.945 +07:00 [INF] HTTP GET /api/Products responded 200 in 21.0060 ms
+2024-12-14 16:19:18.934 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:19:18.954 +07:00 [INF] HTTP GET /api/Products responded 200 in 20.3594 ms
+2024-12-14 16:19:27.928 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:19:27.952 +07:00 [INF] HTTP GET /api/Products responded 200 in 24.9580 ms
+2024-12-14 16:19:31.931 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:19:32.001 +07:00 [INF] HTTP GET /api/Products responded 200 in 69.6634 ms
+2024-12-14 16:45:11.475 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:45:11.699 +07:00 [INF] HTTP GET /api/Products responded 200 in 284.9021 ms
+2024-12-14 16:45:11.721 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:45:11.833 +07:00 [INF] HTTP GET /api/Products responded 200 in 123.8046 ms
+2024-12-14 16:45:12.389 +07:00 [INF] HTTP GET /api/Category/1 responded 404 in 622.1092 ms
+2024-12-14 16:45:12.423 +07:00 [INF] HTTP GET /api/Category/1 responded 404 in 29.7029 ms
+2024-12-14 16:46:32.989 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:46:33.015 +07:00 [INF] HTTP GET /api/Products responded 200 in 27.0959 ms
+2024-12-14 16:46:33.053 +07:00 [INF] HTTP GET /api/Category/1 responded 404 in 20.6891 ms
+2024-12-14 16:46:39.942 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:46:39.966 +07:00 [INF] HTTP GET /api/Products responded 200 in 23.9277 ms
+2024-12-14 16:46:39.985 +07:00 [INF] HTTP GET /api/Category/1 responded 404 in 5.4348 ms
+2024-12-14 16:46:42.938 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 16:46:43.035 +07:00 [INF] HTTP GET /api/Products responded 200 in 97.1699 ms
+2024-12-14 16:46:43.053 +07:00 [INF] HTTP GET /api/Category/1 responded 404 in 5.6879 ms
+2024-12-14 16:47:05.549 +07:00 [INF] HTTP GET /api/Category responded 200 in 38.7070 ms
+2024-12-14 16:47:29.971 +07:00 [INF] HTTP GET /api/Category/1 responded 404 in 36.9524 ms
+2024-12-14 16:49:56.515 +07:00 [INF] HTTP GET /api/Category/1 responded 404 in 23.9309 ms
+2024-12-14 16:50:45.269 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-12-14 16:50:47.530 +07:00 [INF] HTTP GET /api/Category responded 200 in 2189.1825 ms
+2024-12-14 16:51:17.286 +07:00 [INF] HTTP GET /api/Category/1 responded 404 in 1100.6788 ms
+2024-12-14 16:51:27.127 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 959.9805 ms
+2024-12-14 16:59:45.883 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-12-14 16:59:46.934 +07:00 [INF] HTTP GET /api/Category/1 responded 404 in 978.4314 ms
+2024-12-14 16:59:57.760 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 470.4574 ms
+2024-12-14 17:03:13.974 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:03:14.182 +07:00 [INF] HTTP GET /api/Products responded 200 in 221.1753 ms
+2024-12-14 17:03:14.231 +07:00 [INF] HTTP GET /api/Category/1 responded 400 in 33.3292 ms
+2024-12-14 17:03:24.949 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:03:24.984 +07:00 [INF] HTTP GET /api/Products responded 200 in 36.6726 ms
+2024-12-14 17:03:25.016 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 9.4917 ms
+2024-12-14 17:03:30.409 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:03:30.452 +07:00 [INF] HTTP GET /api/Products responded 200 in 44.0285 ms
+2024-12-14 17:03:30.470 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:03:30.490 +07:00 [INF] HTTP GET /api/Products responded 200 in 21.4349 ms
+2024-12-14 17:03:30.723 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 178.7326 ms
+2024-12-14 17:03:30.949 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 223.4240 ms
+2024-12-14 17:04:14.033 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:04:15.049 +07:00 [INF] HTTP GET /api/Products responded 200 in 1020.1206 ms
+2024-12-14 17:04:15.084 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 13.3027 ms
+2024-12-14 17:04:20.947 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:04:21.117 +07:00 [INF] HTTP GET /api/Products responded 200 in 170.5251 ms
+2024-12-14 17:04:21.172 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 26.1902 ms
+2024-12-14 17:04:22.950 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:04:32.341 +07:00 [INF] HTTP GET /api/Products responded 200 in 9391.5057 ms
+2024-12-14 17:04:32.357 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:04:32.399 +07:00 [INF] HTTP GET /api/Products responded 200 in 46.1054 ms
+2024-12-14 17:04:32.436 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 58.1415 ms
+2024-12-14 17:04:32.449 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 11.1506 ms
+2024-12-14 17:05:39.945 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:05:39.973 +07:00 [INF] HTTP GET /api/Products responded 200 in 34.1617 ms
+2024-12-14 17:05:40.074 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 51.1511 ms
+2024-12-14 17:05:43.952 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:05:43.977 +07:00 [INF] HTTP GET /api/Products responded 200 in 25.1337 ms
+2024-12-14 17:05:44.002 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 6.6160 ms
+2024-12-14 17:06:15.963 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:06:16.001 +07:00 [INF] HTTP GET /api/Products responded 200 in 42.4193 ms
+2024-12-14 17:06:16.034 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 7.4274 ms
+2024-12-14 17:07:37.900 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:07:37.994 +07:00 [INF] HTTP GET /api/Products responded 200 in 95.6078 ms
+2024-12-14 17:07:38.013 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:07:38.046 +07:00 [INF] HTTP GET /api/Products responded 200 in 40.2137 ms
+2024-12-14 17:07:38.234 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 8.4207 ms
+2024-12-14 17:07:38.262 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 5.6695 ms
+2024-12-14 17:09:56.652 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:09:56.680 +07:00 [INF] HTTP GET /api/Products responded 200 in 34.4166 ms
+2024-12-14 17:09:56.731 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 9.3647 ms
+2024-12-14 17:09:57.951 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:09:57.979 +07:00 [INF] HTTP GET /api/Products responded 200 in 28.1723 ms
+2024-12-14 17:09:58.013 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 11.0094 ms
+2024-12-14 17:10:22.973 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:10:23.007 +07:00 [INF] HTTP GET /api/Products responded 200 in 40.6018 ms
+2024-12-14 17:10:23.044 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 8.7171 ms
+2024-12-14 17:10:24.945 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:10:24.967 +07:00 [INF] HTTP GET /api/Products responded 200 in 23.1460 ms
+2024-12-14 17:10:24.990 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 6.9235 ms
+2024-12-14 17:10:27.938 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:10:27.961 +07:00 [INF] HTTP GET /api/Products responded 200 in 22.7051 ms
+2024-12-14 17:10:27.985 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 6.5403 ms
+2024-12-14 17:10:30.946 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:10:30.983 +07:00 [INF] HTTP GET /api/Products responded 200 in 37.5297 ms
+2024-12-14 17:10:31.030 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 15.7051 ms
+2024-12-14 17:10:33.939 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:10:33.964 +07:00 [INF] HTTP GET /api/Products responded 200 in 25.1016 ms
+2024-12-14 17:10:33.988 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 8.1904 ms
+2024-12-14 17:10:38.934 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:10:38.959 +07:00 [INF] HTTP GET /api/Products responded 200 in 25.7376 ms
+2024-12-14 17:10:38.978 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 6.8700 ms
+2024-12-14 17:11:45.938 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:11:46.498 +07:00 [INF] HTTP GET /api/Products responded 200 in 560.6147 ms
+2024-12-14 17:11:46.518 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 4.7783 ms
+2024-12-14 17:18:56.928 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:18:57.582 +07:00 [INF] HTTP GET /api/Products responded 200 in 653.7946 ms
+2024-12-14 17:18:57.611 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 7.6882 ms
+2024-12-14 17:19:51.935 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:19:51.956 +07:00 [INF] HTTP GET /api/Products responded 200 in 21.4397 ms
+2024-12-14 17:19:51.984 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 7.5143 ms
+2024-12-14 17:19:55.926 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:19:55.946 +07:00 [INF] HTTP GET /api/Products responded 200 in 21.0101 ms
+2024-12-14 17:19:55.966 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 5.7551 ms
+2024-12-14 17:20:16.946 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:20:16.967 +07:00 [INF] HTTP GET /api/Products responded 200 in 22.1187 ms
+2024-12-14 17:20:16.992 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 5.5360 ms
+2024-12-14 17:21:37.926 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:21:37.943 +07:00 [INF] HTTP GET /api/Products responded 200 in 20.4564 ms
+2024-12-14 17:21:38.361 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 402.2225 ms
+2024-12-14 17:23:11.946 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:23:12.377 +07:00 [INF] HTTP GET /api/Products responded 200 in 431.7414 ms
+2024-12-14 17:23:12.411 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 5.3423 ms
+2024-12-14 17:23:36.934 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:23:37.237 +07:00 [INF] HTTP GET /api/Products responded 200 in 303.1069 ms
+2024-12-14 17:23:37.279 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 14.1101 ms
+2024-12-14 17:24:40.942 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:24:41.139 +07:00 [INF] HTTP GET /api/Products responded 200 in 197.7131 ms
+2024-12-14 17:24:41.226 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 15.6058 ms
+2024-12-14 17:24:43.951 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:24:43.971 +07:00 [INF] HTTP GET /api/Products responded 200 in 20.1971 ms
+2024-12-14 17:24:44.011 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 11.4907 ms
+2024-12-14 17:24:56.933 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:24:56.953 +07:00 [INF] HTTP GET /api/Products responded 200 in 20.3596 ms
+2024-12-14 17:24:56.973 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 6.4444 ms
+2024-12-14 17:25:36.651 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:25:36.675 +07:00 [INF] HTTP GET /api/Products responded 200 in 24.0942 ms
+2024-12-14 17:25:36.694 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:25:36.716 +07:00 [INF] HTTP GET /api/Products responded 200 in 21.4843 ms
+2024-12-14 17:25:36.878 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 9.4260 ms
+2024-12-14 17:25:36.889 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 8.2732 ms
+2024-12-14 17:27:31.414 +07:00 [WRN] Failed to determine the https port for redirect.
+2024-12-14 17:27:32.081 +07:00 [INF] HTTP GET /api/Category responded 200 in 582.0035 ms
+2024-12-14 17:27:43.084 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 1040.3868 ms
+2024-12-14 17:28:30.020 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:28:30.185 +07:00 [INF] HTTP GET /api/Products responded 200 in 179.2958 ms
+2024-12-14 17:28:30.208 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:28:30.259 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 29.4759 ms
+2024-12-14 17:28:30.268 +07:00 [INF] HTTP GET /api/Products responded 200 in 68.5435 ms
+2024-12-14 17:28:30.303 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 7.1735 ms
+2024-12-14 17:29:10.966 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:29:11.343 +07:00 [INF] HTTP GET /api/Products responded 200 in 387.7020 ms
+2024-12-14 17:29:11.430 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 18.0936 ms
+2024-12-14 17:29:49.772 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:29:49.809 +07:00 [INF] HTTP GET /api/Products responded 200 in 38.5563 ms
+2024-12-14 17:29:49.821 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:29:49.848 +07:00 [INF] HTTP GET /api/Products responded 200 in 32.8541 ms
+2024-12-14 17:29:49.868 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 28.7231 ms
+2024-12-14 17:29:49.889 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 7.5572 ms
+2024-12-14 17:30:44.949 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:30:44.970 +07:00 [INF] HTTP GET /api/Products responded 200 in 21.6400 ms
+2024-12-14 17:30:45.003 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 5.7872 ms
+2024-12-14 17:30:49.945 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:30:49.969 +07:00 [INF] HTTP GET /api/Products responded 200 in 23.9452 ms
+2024-12-14 17:30:49.995 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 8.5030 ms
+2024-12-14 17:31:01.157 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:31:01.210 +07:00 [INF] HTTP GET /api/Products responded 200 in 53.4282 ms
+2024-12-14 17:31:01.305 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 16.8769 ms
+2024-12-14 17:31:02.824 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:31:02.852 +07:00 [INF] HTTP GET /api/Products responded 200 in 28.1712 ms
+2024-12-14 17:31:02.879 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 9.8882 ms
+2024-12-14 17:31:26.819 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:31:26.841 +07:00 [INF] HTTP GET /api/Products responded 200 in 21.7559 ms
+2024-12-14 17:31:26.923 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 68.7832 ms
+2024-12-14 17:32:08.827 +07:00 [ERR] Failed executing DbCommand (35,293ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[product_id], [p].[category_id], [p].[create_time], [p].[description], [p].[image_path], [p].[inventory_quantity], [p].[original_price], [p].[product_name], [p].[unit_price], [p].[update_time]
+FROM [Products] AS [p]
+2024-12-14 17:32:08.950 +07:00 [ERR] An error occurred using the connection to database 'BanDoNoiThat' on server 'DESKTOP-11KSHN4\QUIMUIIT'.
+2024-12-14 17:32:09.050 +07:00 [ERR] An exception occurred while iterating over the results of a query for context type 'BanDoNoiThat.Data.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=2; handshake=15079; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParser.ConsumePreLoginHandshake(SqlConnectionEncryptOption encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean& marsCapable, Boolean& fedAuthRequired, Boolean tlsFirst, String serverCert)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, TimeoutTimer timeout, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool, Func`3 accessTokenCallback)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:a1d30351-ad67-413e-8315-2cb7d812d659
+Error Number:-2,State:0,Class:11
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=2; handshake=15079; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParser.ConsumePreLoginHandshake(SqlConnectionEncryptOption encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean& marsCapable, Boolean& fedAuthRequired, Boolean tlsFirst, String serverCert)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, TimeoutTimer timeout, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool, Func`3 accessTokenCallback)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open()
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:a1d30351-ad67-413e-8315-2cb7d812d659
+Error Number:-2,State:0,Class:11
+2024-12-14 17:32:09.050 +07:00 [ERR] An exception occurred while iterating over the results of a query for context type 'BanDoNoiThat.Data.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:6150003c-2504-4935-9cd0-63dbd3dc674b
+Error Number:-2,State:0,Class:11
+Microsoft.Data.SqlClient.SqlException (0x80131904): Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ThrowExceptionAndWarning(Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   at Microsoft.Data.SqlClient.TdsParserStateObject.ReadSniSyncOverAsync()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryReadNetworkPacket()
+   at Microsoft.Data.SqlClient.TdsParserStateObject.TryPrepareBuffer()
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__21_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+ClientConnectionId:6150003c-2504-4935-9cd0-63dbd3dc674b
+Error Number:-2,State:0,Class:11
+2024-12-14 17:31:53.358 +07:00 [INF] Get All Data
+Response: Capturing the property value threw an exception: SqlException
+2024-12-14 17:31:33.340 +07:00 [INF] Get All Data
+Response: Capturing the property value threw an exception: SqlException
+2024-12-14 17:32:09.352 +07:00 [ERR] An error occurred using the connection to database 'BanDoNoiThat' on server 'DESKTOP-11KSHN4\QUIMUIIT'.
+2024-12-14 17:32:09.406 +07:00 [ERR] An error occurred using the connection to database 'BanDoNoiThat' on server 'DESKTOP-11KSHN4\QUIMUIIT'.
+2024-12-14 17:32:09.767 +07:00 [ERR] An exception occurred while iterating over the results of a query for context type 'BanDoNoiThat.Data.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=2; handshake=15079; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:a1d30351-ad67-413e-8315-2cb7d812d659
+Error Number:-2,State:0,Class:11
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=2; handshake=15079; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:a1d30351-ad67-413e-8315-2cb7d812d659
+Error Number:-2,State:0,Class:11
+2024-12-14 17:32:09.767 +07:00 [ERR] An exception occurred while iterating over the results of a query for context type 'BanDoNoiThat.Data.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=2; handshake=15079; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:a1d30351-ad67-413e-8315-2cb7d812d659
+Error Number:-2,State:0,Class:11
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=2; handshake=15079; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:a1d30351-ad67-413e-8315-2cb7d812d659
+Error Number:-2,State:0,Class:11
+2024-12-14 17:32:10.633 +07:00 [ERR] HTTP GET /api/Products responded 500 in 17274.3607 ms
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=2; handshake=15079; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at BanDoNoiThat.Controllers.ProductsController.GetAllProducts() in D:\Mui\WebAPI_Core\BaoCaoWebAPI\BaoCaoWeb\BanDoNoiThat\Controllers\ProductsController.cs:line 33
+   at lambda_method63(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+ClientConnectionId:a1d30351-ad67-413e-8315-2cb7d812d659
+Error Number:-2,State:0,Class:11
+2024-12-14 17:32:10.691 +07:00 [ERR] HTTP GET /api/Products responded 500 in 37351.7542 ms
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=2; handshake=15079; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at BanDoNoiThat.Controllers.ProductsController.GetAllProducts() in D:\Mui\WebAPI_Core\BaoCaoWebAPI\BaoCaoWeb\BanDoNoiThat\Controllers\ProductsController.cs:line 33
+   at lambda_method63(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+ClientConnectionId:a1d30351-ad67-413e-8315-2cb7d812d659
+Error Number:-2,State:0,Class:11
+2024-12-14 17:32:10.799 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=2; handshake=15079; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at BanDoNoiThat.Controllers.ProductsController.GetAllProducts() in D:\Mui\WebAPI_Core\BaoCaoWebAPI\BaoCaoWeb\BanDoNoiThat\Controllers\ProductsController.cs:line 33
+   at lambda_method63(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:a1d30351-ad67-413e-8315-2cb7d812d659
+Error Number:-2,State:0,Class:11
+2024-12-14 17:32:10.922 +07:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=2; handshake=15079; 
+ ---> System.ComponentModel.Win32Exception (258): The wait operation timed out.
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.InternalOpenAsync(CancellationToken cancellationToken)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at BanDoNoiThat.Controllers.ProductsController.GetAllProducts() in D:\Mui\WebAPI_Core\BaoCaoWebAPI\BaoCaoWeb\BanDoNoiThat\Controllers\ProductsController.cs:line 33
+   at lambda_method63(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+ClientConnectionId:a1d30351-ad67-413e-8315-2cb7d812d659
+Error Number:-2,State:0,Class:11
+2024-12-14 17:33:32.677 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:33:32.706 +07:00 [INF] HTTP GET /api/Products responded 200 in 33.0251 ms
+2024-12-14 17:34:26.951 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:34:27.650 +07:00 [INF] HTTP GET /api/Products responded 200 in 725.9309 ms
+2024-12-14 17:34:27.675 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 6.9480 ms
+2024-12-14 17:34:41.932 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:34:42.148 +07:00 [INF] HTTP GET /api/Products responded 200 in 216.2495 ms
+2024-12-14 17:34:42.181 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 7.3224 ms
+2024-12-14 17:42:17.930 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:42:17.951 +07:00 [INF] HTTP GET /api/Products responded 200 in 23.1133 ms
+2024-12-14 17:42:17.975 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 4.6548 ms
+2024-12-14 17:42:22.933 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:42:22.953 +07:00 [INF] HTTP GET /api/Products responded 200 in 20.8301 ms
+2024-12-14 17:42:22.976 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 7.0139 ms
+2024-12-14 17:42:44.946 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:42:45.746 +07:00 [INF] HTTP GET /api/Products responded 200 in 800.7697 ms
+2024-12-14 17:42:45.774 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 8.2146 ms
+2024-12-14 17:43:30.965 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:43:31.125 +07:00 [INF] HTTP GET /api/Products responded 200 in 160.4203 ms
+2024-12-14 17:43:31.214 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 32.2925 ms
+2024-12-14 17:43:37.928 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:43:37.951 +07:00 [INF] HTTP GET /api/Products responded 200 in 23.6362 ms
+2024-12-14 17:43:38.338 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 371.4414 ms
+2024-12-14 17:43:40.928 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:43:40.950 +07:00 [INF] HTTP GET /api/Products responded 200 in 21.8092 ms
+2024-12-14 17:43:40.979 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 6.0110 ms
+2024-12-14 17:43:42.640 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:43:42.666 +07:00 [INF] HTTP GET /api/Products responded 200 in 26.7007 ms
+2024-12-14 17:43:42.708 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 5.6404 ms
+2024-12-14 17:43:51.923 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:43:51.946 +07:00 [INF] HTTP GET /api/Products responded 200 in 24.8813 ms
+2024-12-14 17:43:51.978 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 6.1288 ms
+2024-12-14 17:44:06.928 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:44:06.946 +07:00 [INF] HTTP GET /api/Products responded 200 in 18.0064 ms
+2024-12-14 17:44:06.971 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 6.1126 ms
+2024-12-14 17:44:10.938 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:44:10.962 +07:00 [INF] HTTP GET /api/Products responded 200 in 24.3394 ms
+2024-12-14 17:44:10.982 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 4.7062 ms
+2024-12-14 17:44:13.921 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:44:14.137 +07:00 [INF] HTTP GET /api/Products responded 200 in 216.2501 ms
+2024-12-14 17:44:14.154 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 5.3869 ms
+2024-12-14 17:45:07.927 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:45:07.956 +07:00 [INF] HTTP GET /api/Products responded 200 in 28.8005 ms
+2024-12-14 17:45:07.996 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 11.0847 ms
+2024-12-14 17:45:13.109 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:45:13.271 +07:00 [INF] HTTP GET /api/Products responded 200 in 166.6723 ms
+2024-12-14 17:45:13.299 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 12.3160 ms
+2024-12-14 17:45:19.037 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:45:19.057 +07:00 [INF] HTTP GET /api/Products responded 200 in 20.3758 ms
+2024-12-14 17:45:19.074 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:45:19.099 +07:00 [INF] HTTP GET /api/Products responded 200 in 25.0239 ms
+2024-12-14 17:45:19.210 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 10.2141 ms
+2024-12-14 17:45:19.228 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 16.2924 ms
+2024-12-14 17:45:33.933 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:45:33.955 +07:00 [INF] HTTP GET /api/Products responded 200 in 22.6487 ms
+2024-12-14 17:45:33.975 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 5.8014 ms
+2024-12-14 17:46:06.939 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:46:06.972 +07:00 [INF] HTTP GET /api/Products responded 200 in 33.1593 ms
+2024-12-14 17:46:07.006 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 9.0551 ms
+2024-12-14 17:46:44.946 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:46:44.969 +07:00 [INF] HTTP GET /api/Products responded 200 in 23.0766 ms
+2024-12-14 17:46:45.551 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 544.7544 ms
+2024-12-14 17:46:56.935 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:46:56.956 +07:00 [INF] HTTP GET /api/Products responded 200 in 21.0585 ms
+2024-12-14 17:46:57.026 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 4.9781 ms
+2024-12-14 17:46:59.930 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:46:59.951 +07:00 [INF] HTTP GET /api/Products responded 200 in 20.9046 ms
+2024-12-14 17:47:00.085 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 81.8329 ms
+2024-12-14 17:47:05.925 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:47:06.012 +07:00 [INF] HTTP GET /api/Products responded 200 in 88.3398 ms
+2024-12-14 17:47:06.193 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 160.3531 ms
+2024-12-14 17:47:11.282 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:47:11.435 +07:00 [INF] HTTP GET /api/Products responded 200 in 152.7033 ms
+2024-12-14 17:47:11.473 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 9.5160 ms
+2024-12-14 17:47:30.320 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:47:30.338 +07:00 [INF] HTTP GET /api/Products responded 200 in 18.7786 ms
+2024-12-14 17:47:30.347 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:47:30.379 +07:00 [INF] HTTP GET /api/Products responded 200 in 32.2125 ms
+2024-12-14 17:47:30.486 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 6.8247 ms
+2024-12-14 17:47:30.499 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 9.0777 ms
+2024-12-14 17:48:11.947 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:48:11.967 +07:00 [INF] HTTP GET /api/Products responded 200 in 20.1445 ms
+2024-12-14 17:48:11.991 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 5.6743 ms
+2024-12-14 17:48:15.945 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:48:16.536 +07:00 [INF] HTTP GET /api/Products responded 200 in 591.4260 ms
+2024-12-14 17:48:16.564 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 5.8365 ms
+2024-12-14 17:48:21.008 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:48:21.030 +07:00 [INF] HTTP GET /api/Products responded 200 in 22.0054 ms
+2024-12-14 17:48:21.067 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 13.1972 ms
+2024-12-14 17:48:22.923 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:48:22.944 +07:00 [INF] HTTP GET /api/Products responded 200 in 21.6485 ms
+2024-12-14 17:48:22.965 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 5.1402 ms
+2024-12-14 17:48:28.473 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:48:28.531 +07:00 [INF] HTTP GET /api/Products responded 200 in 58.3890 ms
+2024-12-14 17:48:28.534 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:48:28.558 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 13.2169 ms
+2024-12-14 17:48:28.567 +07:00 [INF] HTTP GET /api/Products responded 200 in 33.9781 ms
+2024-12-14 17:48:28.591 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 8.1962 ms
+2024-12-14 17:48:30.356 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:48:30.379 +07:00 [INF] HTTP GET /api/Products responded 200 in 23.2737 ms
+2024-12-14 17:48:30.380 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:48:30.410 +07:00 [INF] HTTP GET /api/Products responded 200 in 30.2511 ms
+2024-12-14 17:48:30.538 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 8.3396 ms
+2024-12-14 17:48:30.549 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 6.3089 ms
+2024-12-14 17:51:23.151 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:51:23.258 +07:00 [INF] HTTP GET /api/Products responded 200 in 108.2244 ms
+2024-12-14 17:51:23.328 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 7.8295 ms
+2024-12-14 17:51:27.931 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:51:27.952 +07:00 [INF] HTTP GET /api/Products responded 200 in 21.4430 ms
+2024-12-14 17:51:27.983 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 5.7784 ms
+2024-12-14 17:51:38.357 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:51:38.380 +07:00 [INF] HTTP GET /api/Products responded 200 in 23.2469 ms
+2024-12-14 17:51:38.406 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 12.1824 ms
+2024-12-14 17:51:45.932 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:51:45.958 +07:00 [INF] HTTP GET /api/Products responded 200 in 25.5693 ms
+2024-12-14 17:51:45.996 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 10.6562 ms
+2024-12-14 17:53:07.882 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:53:07.942 +07:00 [INF] HTTP GET /api/Products responded 200 in 71.2217 ms
+2024-12-14 17:53:17.925 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:53:17.944 +07:00 [INF] HTTP GET /api/Products responded 200 in 19.7628 ms
+2024-12-14 17:53:17.947 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:53:17.974 +07:00 [INF] HTTP GET /api/Products responded 200 in 27.1960 ms
+2024-12-14 17:54:14.975 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:54:15.006 +07:00 [INF] HTTP GET /api/Products responded 200 in 32.5672 ms
+2024-12-14 17:56:25.948 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:56:26.469 +07:00 [INF] HTTP GET /api/Products responded 200 in 521.5288 ms
+2024-12-14 17:56:31.652 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:56:31.674 +07:00 [INF] HTTP GET /api/Products responded 200 in 22.0070 ms
+2024-12-14 17:57:32.979 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:57:33.084 +07:00 [INF] HTTP GET /api/Products responded 200 in 105.1554 ms
+2024-12-14 17:57:36.950 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:57:36.966 +07:00 [INF] HTTP GET /api/Products responded 200 in 15.6659 ms
+2024-12-14 17:57:58.931 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 17:57:58.950 +07:00 [INF] HTTP GET /api/Products responded 200 in 19.1550 ms
+2024-12-14 18:03:01.934 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:03:01.968 +07:00 [INF] HTTP GET /api/Products responded 200 in 35.4698 ms
+2024-12-14 18:03:02.935 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:03:02.962 +07:00 [INF] HTTP GET /api/Products responded 200 in 27.8886 ms
+2024-12-14 18:03:02.997 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.3430 ms
+2024-12-14 18:03:03.924 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:03:03.947 +07:00 [INF] HTTP GET /api/Products responded 200 in 23.2498 ms
+2024-12-14 18:03:03.964 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.0658 ms
+2024-12-14 18:03:14.643 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:03:14.689 +07:00 [INF] HTTP GET /api/Products responded 200 in 47.0593 ms
+2024-12-14 18:03:14.696 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:03:14.714 +07:00 [INF] HTTP GET /api/Products responded 200 in 18.8766 ms
+2024-12-14 18:03:14.746 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.1527 ms
+2024-12-14 18:03:14.757 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.0624 ms
+2024-12-14 18:03:43.959 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:03:44.000 +07:00 [INF] HTTP GET /api/Products responded 200 in 41.0872 ms
+2024-12-14 18:03:44.026 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.1157 ms
+2024-12-14 18:03:49.385 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:03:49.402 +07:00 [INF] HTTP GET /api/Products responded 200 in 17.7944 ms
+2024-12-14 18:03:49.405 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:03:49.427 +07:00 [INF] HTTP GET /api/Products responded 200 in 22.3589 ms
+2024-12-14 18:03:49.431 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.1014 ms
+2024-12-14 18:03:49.450 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.0658 ms
+2024-12-14 18:04:25.970 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:04:25.994 +07:00 [INF] HTTP GET /api/Products responded 200 in 24.2143 ms
+2024-12-14 18:04:26.024 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.1947 ms
+2024-12-14 18:04:36.245 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:04:36.349 +07:00 [INF] HTTP GET /api/Products responded 200 in 104.6591 ms
+2024-12-14 18:04:36.402 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.0617 ms
+2024-12-14 18:04:36.428 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:04:36.491 +07:00 [INF] HTTP GET /api/Products responded 200 in 63.5599 ms
+2024-12-14 18:04:36.496 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:04:36.532 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.0782 ms
+2024-12-14 18:04:36.562 +07:00 [INF] HTTP GET /api/Products responded 200 in 66.0210 ms
+2024-12-14 18:04:36.621 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.0655 ms
+2024-12-14 18:04:45.671 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:04:45.708 +07:00 [INF] HTTP GET /api/Products responded 200 in 39.0449 ms
+2024-12-14 18:04:45.712 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:04:45.744 +07:00 [INF] HTTP GET /api/Products responded 200 in 31.8252 ms
+2024-12-14 18:04:45.835 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.0762 ms
+2024-12-14 18:04:45.856 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.1128 ms
+2024-12-14 18:05:51.787 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:05:51.834 +07:00 [INF] HTTP GET /api/Products responded 200 in 47.7659 ms
+2024-12-14 18:05:51.843 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:05:51.885 +07:00 [INF] HTTP GET /api/Products responded 200 in 44.8341 ms
+2024-12-14 18:05:51.936 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.0941 ms
+2024-12-14 18:05:51.951 +07:00 [INF] HTTP GET /Category/1 responded 404 in 0.1385 ms
+2024-12-14 18:06:18.262 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:06:18.287 +07:00 [INF] HTTP GET /api/Products responded 200 in 25.0620 ms
+2024-12-14 18:06:18.313 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 11.8717 ms
+2024-12-14 18:06:24.428 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:06:24.459 +07:00 [INF] HTTP GET /api/Products responded 200 in 31.1583 ms
+2024-12-14 18:06:24.460 +07:00 [INF] Get All Data
+Response: [{"product_id":1,"product_name":"Bàn gỗ Lim","image_path":"golim.png","inventory_quantity":20,"original_price":8000000,"unit_price":7900000,"description":"Bàn gỗ Lim được thiết kế dựa trên các bàn gỗ truyền thống, điêu khắc hoa văn tinh xảo","create_time":"2024-12-13T00:00:00.0000000","update_time":null,"category_id":1,"Category":null,"Order_details":[],"$type":"Products"}]
+2024-12-14 18:06:24.498 +07:00 [INF] HTTP GET /api/Products responded 200 in 37.6585 ms
+2024-12-14 18:06:24.599 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 14.2632 ms
+2024-12-14 18:06:24.643 +07:00 [INF] HTTP GET /api/Category/1 responded 200 in 41.8040 ms
